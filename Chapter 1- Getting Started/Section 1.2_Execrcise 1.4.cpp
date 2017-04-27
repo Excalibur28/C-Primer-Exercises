@@ -1,3 +1,9 @@
+/*
+Here are two way to complete the task, 
+you can declare the namespace at the beginning or 
+type std:: when you use functions from std class every time.
+*/
+
 #include <iostream>
 
 int main(){
